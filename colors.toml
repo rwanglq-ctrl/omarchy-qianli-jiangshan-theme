@@ -1,0 +1,31 @@
+# 千里江山 Qianli Jiangshan — 绢色为底、石青石绿为主、赭石打底（王希孟青绿山水）。深色版见 qianli-jiangshan-night。
+mode = "light"
+accent = "#1F5E8C"
+selection = "#E4D2A8"
+muted = "#8E826A"
+
+background = "#F0E6CF"
+dark_background = "#EBDEBF"
+darker_background = "#E5D4AC"
+lighter_background = "#E9DAB8"
+
+foreground = "#2A2418"
+dark_foreground = "#706753"
+light_foreground = "#4A4230"
+bright_foreground = "#1D1911"
+
+red = "#A33E2C"
+yellow = "#816318"
+orange = "#995526"
+green = "#2C7358"
+cyan = "#1F6E74"
+blue = "#1F5E8C"
+magenta = "#7E4062"
+brown = "#6A4A2C"
+
+bright_red = "#B34430"
+bright_yellow = "#866719"
+bright_green = "#2E775B"
+bright_cyan = "#21757C"
+bright_blue = "#23699D"
+bright_magenta = "#8C476D"
